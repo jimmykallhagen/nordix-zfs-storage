@@ -262,7 +262,7 @@ This runs with only primarycache=metadata
 
  - Screeshot - Simple Test with nx-mv 
 ![1](https://github.com/jimmykallhagen/nordix-zfs/blob/main/Screenshot-Wed%20Apr%2029%2009%3A45%3A38%20PM%20UTC%202026.png)
-![2](Screensho.png)
+![2](https://github.com/jimmykallhagen/nordix-zfs/blob/main/Screensho.png)
 ![3](https://github.com/jimmykallhagen/nordix-zfs/blob/main/Screenshot-Wed%20Apr%2029%2009%3A46%3A20%20PM%20UTC%202026.png)
 I myself am very happy with the result and have now got a storage pool of 24TB that can be used for everything from Virtual machines, backups, game libraries, media libraries, a zpool like this is capable to run full OS on if you want to have more BE. ZFS really offers world class storage solutions
 > If you want to take this further you can create an l2arc, slog, larger special vdev and then put small files on the ssd also to minimize the bottlenecks on your HHD, you can also set dataset options:
