@@ -219,8 +219,9 @@ as it gives a huge gain in performance on latency and your large HHD pool now be
 I'm using older SATA SSDs (an old Intel and an old Kingstone) here that I don't completely trust, so I put them in a mirror,
 then one can break and you have the chance to replace it, mirroring also gives increased read speed,
 like stripe but only for reads, not for writes, which is not relevant for special vdev anyway.
-> ⚠️ </br>
-> _Remember that if you use a special vdev for metadata, all data on the entire zpool will be lost if you delete or remove this special vdev. </br>
+
+⚠️ </br>
+> Remember that if you use a special vdev for metadata, all data on the entire zpool will be lost if you delete or remove this special vdev. </br>
 > Always set ashift for your special vdefv to match the zpool they are to be connected to in our zpool configuration
  
  - Add Special vdev for metadata only
