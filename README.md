@@ -47,7 +47,7 @@ If you already have your system on an nvme you can create a zvol and use it as a
  _**1️⃣**_
  - **Locate your drives**
 ```Fish
-lslbk
+lsblk
 ```
 For me it looks like this, it might look different for you:
 ```Fish
