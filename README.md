@@ -1,7 +1,7 @@
 # **Nordix Guide To ZFS**
 
  **In this repo I will create Guides so that you can complete your system with some of that zfs has to offer.**
- **So that everyone can wield the power of Solaris**
+ - **So that everyone can wield the power of Solaris**
  ---
 ![tux](https://github.com/jimmykallhagen/nordix-fanart/blob/main/Tux-the-solaris-power/nordix-tux-solaris-zfs.png)
 ## Contents list of Nordix ZGuide
