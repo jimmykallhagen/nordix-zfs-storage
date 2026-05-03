@@ -3,7 +3,7 @@
  In this repo I will create Guides so that you can complete your system with what zfs has to offer.
  Whether you are someone who builds homelabs or just want a fast and efficient computer.
  ---
-
+¡[tux](https://github.com/jimmykallhagen/nordix-fanart/blob/main/Tux-the-solaris-power/nordix-tux-solaris-zfs.png)
 ## Contents list of Nordix ZGuide
 
   **ZGuide's**
