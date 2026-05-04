@@ -6,7 +6,7 @@
 ![tux](https://github.com/jimmykallhagen/nordix-fanart/blob/main/Tux-the-solaris-power/nordix-tux-solaris-zfs.png)
 ## Contents list of Nordix ZGuide
 
- ## **◾️ ZGuide's** </br>
+ ## **◾️Nordix ZGuide's** </br>
 
    [<kbd> <br> **ZGUIDE: 1** <br> </kbd>](https://github.com/jimmykallhagen/nordix-ZGuide_guide-to-zfs/blob/main/nx-Zguide-1.md)▪️ Nordix Guide to performance storage zpool with special vdev</br>
    </br>
