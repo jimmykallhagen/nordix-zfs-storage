@@ -1,4 +1,4 @@
-# **Nordix Guide To ZFS**
+# **Nordix Guide To ZFS - ZGuide**
 
  **In this repo I will create Guides so that you can complete your system with some of that zfs has to offer.**
  - **So that everyone can wield the power of Solaris**
