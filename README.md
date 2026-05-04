@@ -13,7 +13,7 @@
    - ZGuide: 5 - Nordix Guide to L2ARC 
    - ZGuide: 6 - Nordix Guide to Slog
 
-**[<kbd> <br> ZGuide: 1 <br> </kbd>][https://github.com/jimmykallhagen/nordix-ZGuide_guide-to-zfs/blob/main/nx-Zguide-1.md]** 
+**[<kbd> <br> ZGuide: 1 <br> </kbd>](https://github.com/jimmykallhagen/nordix-ZGuide_guide-to-zfs/blob/main/nx-Zguide-1.md)** 
 **[<kbd> <br> ZGuide: 2 <br> </kbd>][Quick Start]** 
 **[<kbd> <br> ZGuide: 3 <br> </kbd>][Configure]** 
 **[<kbd> <br> ZGuide: 4 <br> </kbd>][Contribute]**
