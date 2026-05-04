@@ -7,8 +7,8 @@
 ## Contents list of Nordix ZGuide
 
   **ZGuide's**
-   - [<kbd> <br> **ZGUIDE: 1** <br> </kbd>](https://github.com/jimmykallhagen/nordix-ZGuide_guide-to-zfs/blob/main/nx-Zguide-1.md)  - Nordix Guide to performance storage zpool with special vdev
-   - [<kbd> <br> **ZGuide: 2** <br> </kbd>](https://github.com/jimmykallhagen/nordix-ZGuide_guide-to-zfs/blob/main/stripe-raidz1-setup.md) - Nordix Guide for advance setups, combine stripe and raidz1 with special vdev (Read ZGuide number 1 first)
-   - [<kbd> <br> **NOT CREATED** <br> </kbd>]() - Nordix Guide to Zvol - Make Block device for VM, Make temporary Slog, L2arc and Special vdev 
-   - [<kbd> <br> **NOT CREATED** <br> </kbd>]() - Nordix Guide to L2ARC 
-   - [<kbd> <br> **NOT CREATED** <br> </kbd>]()  - Nordix Guide to Slog
+   - [<kbd> <br> **ZGUIDE: 1** <br> </kbd>](https://github.com/jimmykallhagen/nordix-ZGuide_guide-to-zfs/blob/main/nx-Zguide-1.md) ➖️ Nordix Guide to performance storage zpool with special vdev
+   - [<kbd> <br> **ZGuide: 2** <br> </kbd>](https://github.com/jimmykallhagen/nordix-ZGuide_guide-to-zfs/blob/main/stripe-raidz1-setup.md) ➖️ Nordix Guide for advance setups, combine stripe and raidz1 with special vdev (Read ZGuide number 1 first)
+   - [<kbd> <br> **NOT CREATED** <br> </kbd>]() ➖️ Nordix Guide to Zvol - Make Block device for VM, Make temporary Slog, L2arc and Special vdev 
+   - [<kbd> <br> **NOT CREATED** <br> </kbd>]() ➖️ Nordix Guide to L2ARC 
+   - [<kbd> <br> **NOT CREATED** <br> </kbd>]() ➖️ Nordix Guide to Slog
