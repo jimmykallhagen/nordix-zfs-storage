@@ -13,9 +13,9 @@
    - ZGuide: 5 - Nordix Guide to L2ARC 
    - ZGuide: 6 - Nordix Guide to Slog
 
-[<kbd> <br> **ZGUIDE: 1** <br> </kbd>](https://github.com/jimmykallhagen/nordix-ZGuide_guide-to-zfs/blob/main/nx-Zguide-1.md) 
-[<kbd> <br> **ZGuide: 2** <br> </kbd>](https://github.com/jimmykallhagen/nordix-ZGuide_guide-to-zfs/blob/main/stripe-raidz1-setup.md) 
-**[<kbd> <br> ZGuide: 3 <br> </kbd>][Configure]** 
-**[<kbd> <br> ZGuide: 4 <br> </kbd>][Contribute]**
-**[<kbd> <br> ZGuide: 5 <br> </kbd>][Install]** 
-**[<kbd> <br> ZGuide: 6 <br> </kbd>][]** 
+- [<kbd> <br> **ZGUIDE: 1** <br> </kbd>](https://github.com/jimmykallhagen/nordix-ZGuide_guide-to-zfs/blob/main/nx-Zguide-1.md) 
+- [<kbd> <br> **ZGuide: 2** <br> </kbd>](https://github.com/jimmykallhagen/nordix-ZGuide_guide-to-zfs/blob/main/stripe-raidz1-setup.md) 
+[<kbd> <br> **ZGuide: 3** <br> </kbd>]() 
+[<kbd> <br> **ZGuide: 4** <br> </kbd>]()
+[<kbd> <br> **ZGuide: 5** <br> </kbd>]() 
+[<kbd> <br> **ZGuide: 6** <br> </kbd>]() 
